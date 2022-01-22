@@ -14,3 +14,16 @@ Erika Moraes 	-   RM 341747
 Devido ao tamanho dos modelos treinados e a limitação do github os modelos e pesos foram salvos no google drive. 
 - Link para download Modelo: https://drive.google.com/drive/folders/1HjyQttjfJXFQecGbMFaeRbHMAJTP6c3S?usp=sharing
 - Link para download Pesos: https://drive.google.com/drive/folders/1AbFiadk7eaUsS0ok2wthwJszpLtz3fFh?usp=sharing
+
+Após realizar o download os arquivos devem ser salvos no google drive para funcionamento do colab sendo:
+
+- Modelo -> pasta modelos
+- Pesos -> pasta pesos
+
+A estrutura de pasta necessarias para execução do modelo no google drive é:
+
+- modelos
+- pesos
+- classificadores
+- yolo-classes
+- config

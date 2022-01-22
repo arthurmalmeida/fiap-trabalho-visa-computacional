@@ -2,12 +2,19 @@
 
 Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas aulas práticas. Por meio uma trilha guiada para construir uma aplicação que tem por objetivo analisar imagens e extrair uma série de informações que serão utilizadas para compor uma análise de imagens e vídeos afim de construir uma forma de auditoria automatizada baseado em modelos de inteligência artificial.
 
+<p align="center">
+<img src="https://github.com/michelpf/fiap-ml-visao-computacional-capstone/blob/master/projeto/imagens-aux/example.png?raw=1">
+</p>
+
 ## Integrantes do grupo
 
-- Arthur Almeida 	-   RM 340400;
-- Augusto Felipe 	-   RM 340461;
-- Elomar Correia 	-   RM 341674;
-- Erika Moraes 	-   RM 341747
+| Nome dos Integrantes     | RM            | Turma  |
+| :----------------------- | :-------------| :-----:|
+| Arthur Almeida           | RM 340400     | `21IA` |
+| Augusto Felipe           | RM 340461     | `21IA` |
+| Elomar Correia           | RM 341674     | `21IA` |
+| Erika Moraes             | RM 341747     | `21IA` |
+
 
 ## dependencias
 

@@ -19,8 +19,9 @@ Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas au
 ## dependencias
 
 Devido ao tamanho dos modelos treinados e a limitação do github os modelos e pesos foram salvos no google drive. 
-- Link para download Modelo: https://drive.google.com/drive/folders/1HjyQttjfJXFQecGbMFaeRbHMAJTP6c3S?usp=sharing
+- Link para download Modelos: https://drive.google.com/drive/folders/1HjyQttjfJXFQecGbMFaeRbHMAJTP6c3S?usp=sharing
 - Link para download Pesos: https://drive.google.com/drive/folders/1AbFiadk7eaUsS0ok2wthwJszpLtz3fFh?usp=sharing
+- Link para download do classificador Hog (Dlib) 68 pontos: https://drive.google.com/drive/folders/1TP9ROJOk7Yq8wgzmqg7_IGEUT1FJR5wz?usp=sharing
 
 Após realizar o download os arquivos devem ser salvos no google drive para funcionamento do colab sendo:
 

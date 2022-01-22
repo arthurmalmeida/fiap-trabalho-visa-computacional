@@ -4,10 +4,10 @@ Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas au
 
 ## Integrantes do grupo
 
-Arthur Almeida 	-   RM 340400;
-Augusto Felipe 	-   RM 340461;
-Elomar Correia 	-   RM 341674;
-Erika Moraes 	-   RM 341747
+- Arthur Almeida 	-   RM 340400;
+- Augusto Felipe 	-   RM 340461;
+- Elomar Correia 	-   RM 341674;
+- Erika Moraes 	-   RM 341747
 
 ## dependencias
 
